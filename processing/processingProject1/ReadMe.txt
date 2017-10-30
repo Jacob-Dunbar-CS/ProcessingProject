@@ -71,11 +71,11 @@ Date:20171027
 Image 12:
 URL:http://puppytoob.com/wp-content/uploads/2017/07/Tibetan-Mastiff-Puppy.jpg
 File:Tibetan-Mastiff-Puppy.jpg
-20171027
+Date:20171027
 
 Image 13:
 URL:https://vetstreet.brightspotcdn.com/dims4/default/fe7e130/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F75%2F5956a09ea011e0a2380050568d634f%2Ffile%2FChihuahua-Smooth-Coat-2-645mk062111.jpg
 File:download.jpg
 Date:20171027
-Date:20171027
+
 
